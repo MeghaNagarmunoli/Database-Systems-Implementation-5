@@ -9,7 +9,6 @@ For more please visit:
 [Report](https://github.com/MeghaNagarmunoli/Database-Systems-Implementation-5/blob/master/Report.pdf) 
 [Video](https://github.com/MeghaNagarmunoli/Database-Systems-Implementation-5/blob/master/FinalVideo.mp4) 
 
-https://github.com/MeghaNagarmunoli/Database-Systems-Implementation-5/blob/master/FinalVideo.mp4
 
 Execute
 =======
