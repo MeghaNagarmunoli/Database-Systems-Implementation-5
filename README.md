@@ -1,8 +1,18 @@
+Relational Database Systems Implementation
+==========================================
+
+Contributors:
+-------------
+[Siddharth Jain](https://github.com/siddharthj)
+[Megha Nagarmunoli](https://github.com/MeghaNagarmunoli)
+
+
 Instructions:
 =======================
 * Make sure you have loaded all the tpch tables into your system 
 * Set up the `Statistics.txt` module so that it can give meaningful plans
 * To compile the project: make a5.out
+
 
 For more please visit:
 ----------------------
