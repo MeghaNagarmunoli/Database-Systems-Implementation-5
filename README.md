@@ -6,8 +6,9 @@ Instructions:
 
 For more please visit:
 ----------------------
-[Report](https://github.com/MeghaNagarmunoli/Database-Systems-Implementation-5/blob/master/Report.pdf) 
-[Video](https://github.com/MeghaNagarmunoli/Database-Systems-Implementation-5/blob/master/FinalVideo.mp4) 
+a) [Report](https://github.com/MeghaNagarmunoli/Database-Systems-Implementation-5/blob/master/Report.pdf) 
+
+b) [Video](https://github.com/MeghaNagarmunoli/Database-Systems-Implementation-5/blob/master/FinalVideo.mp4) 
 
 
 Execute
